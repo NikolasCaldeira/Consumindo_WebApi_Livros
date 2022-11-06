@@ -1,0 +1,15 @@
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\Consumindo_WebApi_Produtos.exe.config
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\Consumindo_WebApi_Produtos.exe
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\Consumindo_WebApi_Produtos.pdb
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\Newtonsoft.Json.dll
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\System.Net.Http.Formatting.dll
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\Newtonsoft.Json.xml
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\bin\Debug\System.Net.Http.Formatting.xml
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\TP03.csproj.AssemblyReference.cache
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\Consumindo_WebApi_Produtos.Form1.resources
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\Consumindo_WebApi_Produtos.Properties.Resources.resources
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\TP03.csproj.GenerateResource.cache
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\TP03.csproj.CoreCompileInputs.cache
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\TP03.csproj.CopyComplete
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\Consumindo_WebApi_Produtos.exe
+E:\Documentos\ADS\671\2ª & 3ª -Sistema Web II\Macoratti\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\Consumindo_WebApi_Produtos\obj\Debug\Consumindo_WebApi_Produtos.pdb
